@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there my profile 
+hi mi name is Ronaldinho 
+it´s mi lastname is Villanueva Poma
+i´m 21 years old 
+I'm Study SYSTEMS ENGINEERING STUDY 😶‍🌫️
 
 <!--
 **ronnann03/ronnann03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
