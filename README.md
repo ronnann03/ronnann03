@@ -1,125 +1,169 @@
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║        👨‍💻  RONALDINHO VILLANUEVA POMA  ·  @ronnann03            ║
+║                                                                  ║
+║   Ing. Sistemas · IA Generativa · Datos · Web · Mobile          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ronaldinho%20Villanueva&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20%26%20Mobile%20Dev&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
+*「 Cada línea de código es un paso hacia el futuro 」*
 
-<!-- Typing effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudiante+apasionado+por+la+IA+%F0%9F%A4%96;Explorando+Ciencia+de+Datos+%F0%9F%93%8A;Construyendo+con+IA+Generativa+%E2%9C%A8;Desarrollo+Web+%26+M%C3%B3vil+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-<br/>
-
-<!-- Badges de perfil -->
-![Visitors](https://komarev.com/ghpvc/?username=ronnann03&color=7c3aed&style=for-the-badge&label=VISITAS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ronnann03?style=for-the-badge&color=7c3aed&labelColor=0f0c29)](https://github.com/ronnann03)
+
+![Estudiante](https://img.shields.io/badge/🎓_Estudiante-Ingeniería_de_Sistemas-7c3aed?style=flat-square)
+&nbsp;
+![País](https://img.shields.io/badge/📍_Ubicación-Perú-302b63?style=flat-square)
+&nbsp;
+![Estado](https://img.shields.io/badge/🚀_Estado-Aprendiz_constante-0f0c29?style=flat-square)
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## ◈ SOBRE MÍ
 
 ```python
 class Ronaldinho:
-    nombre     = "Ronaldinho Villanueva"
-    usuario    = "@ronnann03"
-    ubicacion  = "Perú 🇵🇪"
-    estado     = "Estudiante | Aprendiz constante"
-    
-    enfoque = [
-        "🤖 Inteligencia Artificial & IA Generativa",
-        "📊 Ciencia de Datos",
-        "✍️  Ingeniería de Prompts",
-        "🌐 Desarrollo Web",
-        "📱 Desarrollo Móvil",
+
+    nombre    = "Ronaldinho Villanueva Poma"
+    usuario   = "@ronnann03"
+    ubicacion = "Perú 🇵🇪"
+    carrera   = "Ingeniería de Sistemas"
+
+    perfil_profesional = [
+        "🤖  IA Generativa & Prompt Engineering",
+        "📊  Power BI & Análisis de Datos",
+        "🗄️   Bases de Datos",
+        "📋  Gestión de Proyectos",
+        "💻  Ofimática Intermedio",
+        "🌐  Desarrollo Web",
+        "📱  Desarrollo Móvil",
     ]
-    
-    objetivo = "Construir soluciones digitales que combinen datos e IA"
-    
-    frase = "Cada línea de código es un paso hacia el futuro 🚀"
+
+    objetivo = "Aplicar la tecnología e IA para resolver problemas reales"
+    frase    = "Aprender, construir y mejorar — todos los días."
 ```
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## ◈ HABILIDADES & TECNOLOGÍAS
 
-### 🤖 IA & Datos
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🌐 Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 📱 Desarrollo Móvil
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🧰 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🤖  IA & DATOS                                              │
+│  ├── IA Generativa / LLMs    ████████████░░░  Intermedio     │
+│  ├── Prompt Engineering      ████████████░░░  Intermedio     │
+│  ├── Power BI                ████████████░░░  Intermedio     │
+│  ├── Python                  ████████░░░░░░░  Aprendiendo    │
+│  └── Bases de Datos (SQL)    ████████████░░░  Intermedio     │
+├──────────────────────────────────────────────────────────────┤
+│  🌐  DESARROLLO WEB                                          │
+│  ├── HTML / CSS              ██████████░░░░░  Aprendiendo    │
+│  ├── JavaScript              ███████░░░░░░░░  Aprendiendo    │
+│  └── React                   █████░░░░░░░░░░  Iniciando      │
+├──────────────────────────────────────────────────────────────┤
+│  📱  DESARROLLO MÓVIL                                        │
+│  ├── Flutter                 █████░░░░░░░░░░  Iniciando      │
+│  └── Dart                    █████░░░░░░░░░░  Iniciando      │
+├──────────────────────────────────────────────────────────────┤
+│  📋  GESTIÓN & PRODUCTIVIDAD                                 │
+│  ├── Gestión de Proyectos    ████████████░░░  Intermedio     │
+│  ├── Ofimática (Office)      ████████████░░░  Intermedio     │
+│  └── Git / GitHub            ████████░░░░░░░  Aprendiendo    │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 Estadísticas de GitHub
+## ◈ FORMACIÓN & CERTIFICACIONES
+
+```
+  ▸ 🎓  Ingeniería de Sistemas                    [ En curso ]
+  ▸ 🤖  IA Generativa & Prompt Engineering        [ En curso ]
+  ▸ 📊  Power BI & Visualización de Datos         [ En curso ]
+  ▸ 🗄️   Bases de Datos                           [ En curso ]
+  ▸ 📋  Gestión de Proyectos                      [ En curso ]
+  ▸ 💻  Ofimática                                 [ Intermedio ]
+```
+
+---
+
+## ◈ ACTUALMENTE APRENDIENDO
+
+```
+  ▸ 🔍  Técnicas avanzadas de Prompt Engineering
+  ▸ 🧠  Modelos de Lenguaje (LLMs) y RAG
+  ▸ 📊  Machine Learning con Scikit-learn
+  ▸ 📱  Aplicaciones móviles con Flutter & Dart
+  ▸ 🌐  Desarrollo Full Stack
+```
+
+---
+
+## ◈ PROYECTOS DESTACADOS
+
+> 🚧 *Estoy construyendo mi portafolio — ¡pronto habrá proyectos aquí!*
+>
+> Puedes revisar mis repositorios públicos mientras tanto 👇
+
+```
+  📁  github.com/ronnann03?tab=repositories
+```
+
+---
+
+## ◈ ESTADÍSTICAS GITHUB
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnann03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnann03&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/ronnann03)
+
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnann03&layout=compact&theme=tokyonight&border_color=7c3aed"/>
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnann03&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa)](https://github.com/ronnann03)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnann03&theme=tokyonight&border=7c3aed" alt="streak stats"/>
+&nbsp;
 
-</div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronnann03&theme=darkhub&no-frame=true&margin-w=10&column=6" />
-</div>
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- 🔍 Ingeniería de Prompts avanzada
-- 🧠 Modelos de Lenguaje (LLMs) y RAG
-- 📱 Aplicaciones móviles con Flutter
-- 📊 Machine Learning con Scikit-learn
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldinho-villanueva-poma-0a37a4315/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/foster_wk3/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ronayuw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villanuevaronaldinho@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51947646767)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronnann03&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/ronnann03)
 
 </div>
 
 ---
 
+## ◈ CONTACTO
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    ── ¡Conectemos! 🤝 ──                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  📧  Email      →  villanuevaronaldinho@gmail.com                ║
+║                                                                  ║
+║  💼  LinkedIn   →  linkedin.com/in/ronaldinho-villanueva-poma    ║
+║                                                                  ║
+║  📸  Instagram  →  instagram.com/foster_wk3                      ║
+║                                                                  ║
+║  📘  Facebook   →  facebook.com/ronayuw                          ║
+║                                                                  ║
+║  💬  WhatsApp   →  +51 947 646 767                               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+         Gracias por visitar mi perfil  ·  ¡Sigamos en contacto!
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
+
+*⭐ Si algo de mi trabajo te es útil, ¡no olvides dejar una estrella!*
 
 </div>
