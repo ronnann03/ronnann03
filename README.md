@@ -189,6 +189,7 @@ $ learning --topics
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    >_ Gracias por visitar mi perfil · ¡Sigamos en contacto! 🚀
    >_ Si algo te fue útil, deja una ⭐ — se lo agradezco mucho
+
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
