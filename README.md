@@ -1,169 +1,226 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║        👨‍💻  RONALDINHO VILLANUEVA POMA  ·  @ronnann03            ║
-║                                                                  ║
-║   Ing. Sistemas · IA Generativa · Datos · Web · Mobile          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
+<!-- HEADER -->
 <div align="center">
 
-*「 Cada línea de código es un paso hacia el futuro 」*
+```
+╔╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╗
+╠╣                                                               ╠╣
+╠╣     ✦  RONALDINHO VILLANUEVA POMA  ✦                          ╠╣
+╠╣     ⚡  @ronnann03  ·  Perú 🇵🇪                               ╠╣
+╠╣                                                               ╠╣
+╠╣     🤖 IA Generativa  ·  📊 Datos  ·  🌐 Web  ·  📱 Mobile   ╠╣
+╠╣                                                               ╠╣
+╚╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╝
+```
+
+### 💜 *« Aprender, construir y mejorar — todos los días »* 💜
 
 &nbsp;
 
-![Estudiante](https://img.shields.io/badge/🎓_Estudiante-Ingeniería_de_Sistemas-7c3aed?style=flat-square)
-&nbsp;
-![País](https://img.shields.io/badge/📍_Ubicación-Perú-302b63?style=flat-square)
-&nbsp;
-![Estado](https://img.shields.io/badge/🚀_Estado-Aprendiz_constante-0f0c29?style=flat-square)
+![Estudiante](https://img.shields.io/badge/🎓-Ingeniería_de_Sistemas-7c3aed?style=for-the-badge)
+![País](https://img.shields.io/badge/📍-Perú-e11d48?style=for-the-badge)
+![IA](https://img.shields.io/badge/🤖-IA_Generativa-0ea5e9?style=for-the-badge)
+![Estado](https://img.shields.io/badge/🚀-Open_to_learn-16a34a?style=for-the-badge)
 
 </div>
 
+&nbsp;
+
 ---
 
-## ◈ SOBRE MÍ
+## 🟣 `SOBRE MÍ` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```python
-class Ronaldinho:
-
-    nombre    = "Ronaldinho Villanueva Poma"
-    usuario   = "@ronnann03"
-    ubicacion = "Perú 🇵🇪"
-    carrera   = "Ingeniería de Sistemas"
-
-    perfil_profesional = [
-        "🤖  IA Generativa & Prompt Engineering",
-        "📊  Power BI & Análisis de Datos",
-        "🗄️   Bases de Datos",
-        "📋  Gestión de Proyectos",
-        "💻  Ofimática Intermedio",
-        "🌐  Desarrollo Web",
-        "📱  Desarrollo Móvil",
-    ]
-
-    objetivo = "Aplicar la tecnología e IA para resolver problemas reales"
-    frase    = "Aprender, construir y mejorar — todos los días."
+╔═══════════════════════════════════════════════════════════════╗
+║  🧠  ronaldinho.py                                            ║
+╠═══════════════════════════════════════════════════════════════╣
+                                                                
+  class Ronaldinho:                                             
+                                                                
+      nombre    = "Ronaldinho Villanueva Poma"  # 👤           
+      usuario   = "@ronnann03"                  # 💻           
+      ubicacion = "Perú 🇵🇪"                   # 📍           
+      carrera   = "Ingeniería de Sistemas"      # 🎓           
+                                                                
+      superpoderes = [                                          
+          "🤖  IA Generativa & Prompt Engineering",            
+          "📊  Power BI & Análisis de Datos",                  
+          "🗄️   Bases de Datos (SQL)",                          
+          "📋  Gestión de Proyectos",                          
+          "💻  Ofimática Nivel Intermedio",                    
+          "🌐  Desarrollo Web",                                 
+          "📱  Desarrollo Móvil",                               
+      ]                                                         
+                                                                
+      objetivo = "Aplicar IA para resolver problemas reales"   
+                                                                
+╚═══════════════════════════════════════════════════════════════╝
 ```
+
+&nbsp;
 
 ---
 
-## ◈ HABILIDADES & TECNOLOGÍAS
+## 🔵 `HABILIDADES & STACK` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+&nbsp;
+
+### 🤖 &nbsp; IA · DATOS · PROMPTS
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  🤖  IA & DATOS                                              │
-│  ├── IA Generativa / LLMs    ████████████░░░  Intermedio     │
-│  ├── Prompt Engineering      ████████████░░░  Intermedio     │
-│  ├── Power BI                ████████████░░░  Intermedio     │
-│  ├── Python                  ████████░░░░░░░  Aprendiendo    │
-│  └── Bases de Datos (SQL)    ████████████░░░  Intermedio     │
-├──────────────────────────────────────────────────────────────┤
-│  🌐  DESARROLLO WEB                                          │
-│  ├── HTML / CSS              ██████████░░░░░  Aprendiendo    │
-│  ├── JavaScript              ███████░░░░░░░░  Aprendiendo    │
-│  └── React                   █████░░░░░░░░░░  Iniciando      │
-├──────────────────────────────────────────────────────────────┤
-│  📱  DESARROLLO MÓVIL                                        │
-│  ├── Flutter                 █████░░░░░░░░░░  Iniciando      │
-│  └── Dart                    █████░░░░░░░░░░  Iniciando      │
-├──────────────────────────────────────────────────────────────┤
-│  📋  GESTIÓN & PRODUCTIVIDAD                                 │
-│  ├── Gestión de Proyectos    ████████████░░░  Intermedio     │
-│  ├── Ofimática (Office)      ████████████░░░  Intermedio     │
-│  └── Git / GitHub            ████████░░░░░░░  Aprendiendo    │
-└──────────────────────────────────────────────────────────────┘
+  ✦  IA Generativa / LLMs   ┃ ██████████████░░ ┃  Intermedio  🟣
+  ✦  Prompt Engineering     ┃ ██████████████░░ ┃  Intermedio  🟣
+  ✦  Power BI               ┃ ██████████████░░ ┃  Intermedio  🔵
+  ✦  Python                 ┃ ████████░░░░░░░░ ┃  Aprendiendo 🟡
+  ✦  SQL / Bases de Datos   ┃ ████████████░░░░ ┃  Intermedio  🔵
 ```
+
+### 🌐 &nbsp; DESARROLLO WEB
+```
+  ✦  HTML / CSS             ┃ ██████████░░░░░░ ┃  Aprendiendo 🟡
+  ✦  JavaScript             ┃ ███████░░░░░░░░░ ┃  Aprendiendo 🟡
+  ✦  React                  ┃ █████░░░░░░░░░░░ ┃  Iniciando   🟠
+```
+
+### 📱 &nbsp; DESARROLLO MÓVIL
+```
+  ✦  Flutter                ┃ █████░░░░░░░░░░░ ┃  Iniciando   🟠
+  ✦  Dart                   ┃ █████░░░░░░░░░░░ ┃  Iniciando   🟠
+```
+
+### 🧰 &nbsp; HERRAMIENTAS & PRODUCTIVIDAD
+```
+  ✦  Git / GitHub           ┃ ████████░░░░░░░░ ┃  Aprendiendo 🟡
+  ✦  VS Code                ┃ ██████████████░░ ┃  Intermedio  🔵
+  ✦  Jupyter Notebook       ┃ ████████░░░░░░░░ ┃  Aprendiendo 🟡
+  ✦  Ofimática (Office)     ┃ ████████████░░░░ ┃  Intermedio  🔵
+  ✦  Gestión de Proyectos   ┃ ████████████░░░░ ┃  Intermedio  🔵
+```
+
+&nbsp;
 
 ---
 
-## ◈ FORMACIÓN & CERTIFICACIONES
+## 🟡 `FORMACIÓN` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&nbsp;
 
 ```
-  ▸ 🎓  Ingeniería de Sistemas                    [ En curso ]
-  ▸ 🤖  IA Generativa & Prompt Engineering        [ En curso ]
-  ▸ 📊  Power BI & Visualización de Datos         [ En curso ]
-  ▸ 🗄️   Bases de Datos                           [ En curso ]
-  ▸ 📋  Gestión de Proyectos                      [ En curso ]
-  ▸ 💻  Ofimática                                 [ Intermedio ]
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │  🎓  Ingeniería de Sistemas              [ 📖 En curso ]    │
+  │  🤖  IA Generativa & Prompt Engineering  [ 📖 En curso ]    │
+  │  📊  Power BI & Visualización de Datos   [ 📖 En curso ]    │
+  │  🗄️   Bases de Datos                     [ 📖 En curso ]    │
+  │  📋  Gestión de Proyectos                [ 📖 En curso ]    │
+  │  💻  Ofimática                           [ ✅ Intermedio ]  │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
+
+&nbsp;
 
 ---
 
-## ◈ ACTUALMENTE APRENDIENDO
+## 🟠 `APRENDIENDO AHORA` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&nbsp;
+
+> 🔥 **Siempre en movimiento. Siempre mejorando.**
 
 ```
-  ▸ 🔍  Técnicas avanzadas de Prompt Engineering
-  ▸ 🧠  Modelos de Lenguaje (LLMs) y RAG
-  ▸ 📊  Machine Learning con Scikit-learn
-  ▸ 📱  Aplicaciones móviles con Flutter & Dart
-  ▸ 🌐  Desarrollo Full Stack
+  🔍  Prompt Engineering avanzado           →  [ ████████░░ ] 80%
+  🧠  LLMs, RAG y Agentes de IA            →  [ ██████░░░░ ] 60%
+  📊  Machine Learning con Scikit-learn    →  [ ████░░░░░░ ] 40%
+  📱  Apps móviles con Flutter & Dart      →  [ ████░░░░░░ ] 40%
+  🌐  Full Stack Web Development           →  [ ██████░░░░ ] 55%
 ```
+
+&nbsp;
 
 ---
 
-## ◈ PROYECTOS DESTACADOS
+## 🟢 `PROYECTOS` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> 🚧 *Estoy construyendo mi portafolio — ¡pronto habrá proyectos aquí!*
->
-> Puedes revisar mis repositorios públicos mientras tanto 👇
+&nbsp;
 
 ```
-  📁  github.com/ronnann03?tab=repositories
+  ╔══════════════════════════════════════════════════════════╗
+  ║  🚧  Portafolio en construcción...                       ║
+  ║                                                          ║
+  ║  Pronto encontrarás aquí proyectos de:                   ║
+  ║    ▸ 🤖  IA y automatización con LLMs                   ║
+  ║    ▸ 📊  Dashboards con Power BI                        ║
+  ║    ▸ 🌐  Aplicaciones web                               ║
+  ║    ▸ 📱  Apps móviles con Flutter                       ║
+  ║                                                          ║
+  ║  👉  github.com/ronnann03?tab=repositories               ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
+
+&nbsp;
 
 ---
 
-## ◈ ESTADÍSTICAS GITHUB
+## 📊 `ESTADÍSTICAS GITHUB` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnann03&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa)](https://github.com/ronnann03)
+&nbsp;
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnann03&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f0c29)](https://github.com/ronnann03)
 
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnann03&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa)](https://github.com/ronnann03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnann03&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0c29)](https://github.com/ronnann03)
 
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronnann03&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/ronnann03)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronnann03&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f43f5e&currStreakLabel=38bdf8)](https://github.com/ronnann03)
 
 </div>
 
+&nbsp;
+
 ---
 
-## ◈ CONTACTO
+## 💜 `CONTACTO` &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    ── ¡Conectemos! 🤝 ──                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  📧  Email      →  villanuevaronaldinho@gmail.com                ║
-║                                                                  ║
-║  💼  LinkedIn   →  linkedin.com/in/ronaldinho-villanueva-poma    ║
-║                                                                  ║
-║  📸  Instagram  →  instagram.com/foster_wk3                      ║
-║                                                                  ║
-║  📘  Facebook   →  facebook.com/ronayuw                          ║
-║                                                                  ║
-║  💬  WhatsApp   →  +51 947 646 767                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+&nbsp;
 
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║              ✨  ¡Hablemos y construyamos algo! ✨               ║
+║                                                                  ║
+╠══════╦═══════════════════════════════════════════════════════════╣
+║  📧  ║  villanuevaronaldinho@gmail.com                           ║
+╠══════╬═══════════════════════════════════════════════════════════╣
+║  💼  ║  linkedin.com/in/ronaldinho-villanueva-poma               ║
+╠══════╬═══════════════════════════════════════════════════════════╣
+║  📸  ║  instagram.com/foster_wk3                                 ║
+╠══════╬═══════════════════════════════════════════════════════════╣
+║  📘  ║  facebook.com/ronayuw                                     ║
+╠══════╬═══════════════════════════════════════════════════════════╣
+║  💬  ║  WhatsApp: +51 947 646 767                                ║
+╚══════╩═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+&nbsp;
+
 ---
 
+<div align="center">
+
 ```
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-         Gracias por visitar mi perfil  ·  ¡Sigamos en contacto!
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ⭐  Si algo de mi trabajo te fue útil, déjame una estrella ⭐
+  🤝  Siempre abierto a colaborar, aprender y crecer juntos 🤝
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-*⭐ Si algo de mi trabajo te es útil, ¡no olvides dejar una estrella!*
+![Visitors](https://komarev.com/ghpvc/?username=ronnann03&color=7c3aed&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
