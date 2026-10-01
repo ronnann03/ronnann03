@@ -1,22 +1,18 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   >_ RONALDINHO VILLANUEVA POMA                                     │
-│      @ronnann03  ·  Ingeniería de Sistemas  ·  Perú 🇵🇪             │
-│                                                                     │
-│   >  IA Generativa  ·  Prompt Engineering  ·  Datos  ·  Web        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="./921a0a63-d4e0-4daf-83a3-71851f62b98c.png" alt="Ronaldinho Villanueva Poma · ROV-LABS · Full Stack Developer & AI Engineer" width="100%" />
+
+<br/>
+<br/>
 
 ![Estudiante](https://img.shields.io/badge/🎓_Estudiante-Ingeniería_de_Sistemas-0F6E56?style=flat-square&labelColor=04342C)
 &nbsp;
 ![País](https://img.shields.io/badge/📍_Ubicación-Perú-1D9E75?style=flat-square&labelColor=04342C)
 &nbsp;
-![Estado](https://img.shields.io/badge/🚀_Estado-Open_to_Learn-5DCAA5?style=flat-square&labelColor=04342C)
+![Estado](https://img.shields.io/badge/🚀_Estado-Disponible_para_proyectos-5DCAA5?style=flat-square&labelColor=04342C)
+&nbsp;
+[![Web](https://img.shields.io/badge/🌐_Web-rov--labs.vercel.app-1D9E75?style=flat-square&labelColor=04342C)](https://rov-labs.vercel.app)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=ronnann03&color=1D9E75&style=flat-square&label=VISITAS)
 
@@ -31,11 +27,13 @@
 ```python
 class Ronaldinho:
 
-    nombre    = "Ronaldinho Villanueva Poma"   # 👤
-    usuario   = "@ronnann03"                   # 💻
-    ubicacion = "Perú 🇵🇪"                    # 📍
-    carrera   = "Ingeniería de Sistemas"       # 🎓
-    estado    = "Aprendiz constante"           # 🚀
+    nombre    = "Ronaldinho Villanueva Poma"           # 👤
+    usuario   = "@ronnann03"                           # 💻
+    ubicacion = "Perú 🇵🇪"                            # 📍
+    carrera   = "Ingeniería de Sistemas"               # 🎓
+    rol       = "Full Stack Developer & AI Engineer"   # 🧠
+    estudio   = "Aprendiz constante"                   # 📚
+    labs      = "ROV-Labs · rov-labs.vercel.app"       # 🚀
 
     superpoderes = [
         "🤖  IA Generativa & Prompt Engineering",
@@ -130,18 +128,18 @@ $ learning --topics
 // proyectos.md ──────────────────────────────────────────────────────
 ```
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  🚧  Portafolio en construcción...                           ║
-  ║                                                              ║
-  ║  Próximamente proyectos de:                                  ║
-  ║    >  🤖  IA y automatización con LLMs                      ║
-  ║    >  📊  Dashboards con Power BI                           ║
-  ║    >  🌐  Aplicaciones web                                  ║
-  ║                                                              ║
-  ║  $ cd github.com/ronnann03?tab=repositories                  ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| 🚀 Proyecto | 📝 Descripción | 🔗 Enlace |
+|:---|:---|:---:|
+| **RideNow** | Plataforma de movilidad tipo ride-hailing pensada para el mercado peruano | [Ver repo](https://github.com/ronnann03?tab=repositories) |
+| **Aivora** | SaaS para pequeños negocios de servicios en Latinoamérica, empezando por barberías | [Ver repo](https://github.com/ronnann03?tab=repositories) |
+| **Tottem Hub** | Plataforma B2B para agencias de viajes escolares grupales en Perú | [Ver repo](https://github.com/ronnann03?tab=repositories) |
+| **TourUp** | Turismo accesible con un grafo de conocimiento integrado a un bot de Telegram | [Ver repo](https://github.com/ronnann03?tab=repositories) |
+
+<sub>Más proyectos y soluciones en 👉 <a href="https://rov-labs.vercel.app">rov-labs.vercel.app</a></sub>
+
+</div>
 
 ---
 
@@ -151,11 +149,13 @@ $ learning --topics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnann03&show_icons=true&theme=tokyonight&hide_border=true&title_color=5DCAA5&icon_color=1D9E75&text_color=9FE1CB&bg_color=04342C)](https://github.com/ronnann03)
+[![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronnann03&theme=tokyonight)](https://github.com/ronnann03)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnann03&layout=compact&theme=tokyonight&hide_border=true&title_color=5DCAA5&text_color=9FE1CB&bg_color=04342C)](https://github.com/ronnann03)
+[![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronnann03&theme=tokyonight)](https://github.com/ronnann03)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronnann03&theme=tokyonight&hide_border=true&ring=1D9E75&fire=5DCAA5&currStreakLabel=9FE1CB)](https://github.com/ronnann03)
+[![Racha](https://streak-stats.demolab.com/?user=ronnann03&theme=tokyonight&hide_border=true&ring=1D9E75&fire=5DCAA5&currStreakLabel=9FE1CB&background=04342C)](https://github.com/ronnann03)
+
+[![Contribuciones](https://ghchart.rshah.org/1D9E75/ronnann03)](https://github.com/ronnann03)
 
 </div>
 
@@ -169,6 +169,8 @@ $ learning --topics
   ╔══════════════════════════════════════════════════════════════════╗
   ║                  >_ ¡Conectemos y construyamos! 🤝              ║
   ╠══════╦═══════════════════════════════════════════════════════════╣
+  ║ web  ║  rov-labs.vercel.app                                      ║
+  ╠══════╬═══════════════════════════════════════════════════════════╣
   ║  @   ║  villanuevaronaldinho@gmail.com                          ║
   ╠══════╬═══════════════════════════════════════════════════════════╣
   ║  in  ║  linkedin.com/in/ronaldinho-villanueva-poma              ║
